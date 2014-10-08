@@ -1,5 +1,8 @@
 ## LazyLibrarian
 
+### IMPORTANT UPDATE 2
+From what I could see there's only one fork that's still being dev'd for (updated two months ago) so I figured I'd take a shot at it. I don't have much experience with Python, but I'll be learning as I go. If anyone has any suggestions or wants to contribute, let me know.
+
 #### IMPORTANT UPDATE
 As Mar2zz can no longer maintain LazyLibrarian, i have taken over.
 I don't have a lot of free time, but i will try my best to get a usable application.
