@@ -102,7 +102,7 @@ a.blue {
 
 container {  }
 
-body { background-color: #412821; min-width: 935px; }
+body { background-color: #707070; min-width: 935px; }
 
 header { min-height: 68px; width: 100%; padding-left: 0px; padding-right: 10px; background-color: #412821; position: fixed; z-index: 998; }
 
@@ -113,7 +113,7 @@ h4 { font-size: 14px; }
 h5 { font-size: 12px; }
 
 p.indented { padding-top: 20px; margin-left: 20%; font-size: 14px; }
-p.center { text-align: center; font-size: 10px; }
+p.center { text-align: center; font-size: 13px; }
 .smalltext2 { font-size: 12px; margin-left: 45px; }
 .smalltext { font-size: 10px }
 
